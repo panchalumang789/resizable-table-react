@@ -6,12 +6,12 @@ Visit [https://github.com/panchalumang789/resizable-table-react](https://github.
 
 # Code Example
 
-<img src="#" alt="Code Example">
+<img src="https://github.com/panchalumang789/resizable-table-react/tree/main/src/Assets/image/DataFormat%20Example.png" alt="Code Example">
 
 # Data Example
 
-<img src="#" alt="Data Example">
+<img src="https://github.com/panchalumang789/resizable-table-react/tree/main/src/Assets/image/Example%20Image.png" alt="Data Example">
 
 # Output
 
-<img src="#" alt="Output">
+<img src="https://github.com/panchalumang789/resizable-table-react/tree/main/src/Assets/image/Output.png" alt="Output">
