@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "name": "Launch Chrome",
+      "request": "launch",
+      "type": "chrome",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}",
+      "presentation": {
+        "hidden": true
+      }
+    },
+
+    {
+      "name": "Launch Program",
+      "request": "launch",
+      "command": "npm start",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "node-terminal",
+      "presentation": {
+        "hidden": true
+      }
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Compound",
+      "configurations": ["Launch Program", "Launch Chrome"]
+    }
+  ]
+}
